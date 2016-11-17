@@ -7,7 +7,7 @@ int main()
     cout.setf(ios_base::fixed,ios_base::floatfield);
     cout << "Enter a number: " ;
     cin >> hats;
-    cout << "Enter another number£º";
+    cout << "Enter another numberÂ£Âº";
     cin >> heads ;
 
     cout << "hats = " << hats
@@ -16,7 +16,7 @@ int main()
          <<"hats + heads = " << hats + heads << endl
          <<"hats - heads = " << hats - heads << endl
          <<"hats * heads = " << hats * heads << endl
-         <<"hats ¡Â heads = " << hats / heads << endl ;
+         <<"hats / heads = " << hats / heads << endl ;
 
     cin.get();
     cin.get();

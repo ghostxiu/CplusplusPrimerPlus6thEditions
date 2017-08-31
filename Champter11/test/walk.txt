@@ -1,0 +1,18 @@
+(x,y)  = (0.331883,2.27471)
+
+ or
+(m,a)  = (2.29879,81.699)
+
+Average outward distance per step = 0.255421
+(x,y)  = (-15.926,-47.7773)
+
+ or
+(m,a)  = (50.3617,-108.435)
+
+Average outward distance per step = 0.0440996
+(x,y)  = (-32.4487,95.3216)
+
+ or
+(m,a)  = (100.693,108.799)
+
+Average outward distance per step = 0.01396

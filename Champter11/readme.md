@@ -14,5 +14,10 @@ Chapter 11 using Class
 
 ⑤11.5根据课本改写，程序入口11.5.cc,包括stonewt.h 和 stonewt.cc，增加状态成员来确定使用英石格式，整数磅格式，浮点磅数格式重载<<，+，-，*
 
-⑤11.6根据11.5.cc改写，程序入口11.6.cc,包括stonewt.h 和 stonewt.cc，重载六个全部关系运算符等
+⑥11.6根据11.5.cc改写，程序入口11.6.cc,包括stonewt.h 和 stonewt.cc，重载六个全部关系运算符等
 
+⑦11.7实现书上11.7实例内容,程序入口11.7.cc,包括文件 complex.cc 和 complex.h，复数的操作
+
+//modify by Ghostxiu 2017/9/1
+
+blog: x.wolfmark.org  github: github.com/ghostxiu

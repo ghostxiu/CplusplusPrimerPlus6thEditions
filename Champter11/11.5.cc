@@ -1,6 +1,7 @@
 //根据课本改写，包括stonewt.h 和 stonewt.cc
 //Modify by ghostxiu 2017/9/1
 //增加状态成员来确定使用英石格式，整数磅格式，浮点磅数格式重载<<，+，-，*
+//类与基本类型的转换
 #include"stonewt.cc"
 int main()
 {

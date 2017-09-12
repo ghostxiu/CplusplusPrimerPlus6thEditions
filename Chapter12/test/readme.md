@@ -11,3 +11,5 @@ Chapter 12  Class & Dynamic memory allocation
 ③say2.cc是在say1.cc基础上改造的，使用指向类的指针的应用
 
 ④placenew1.cc和placenew2.cc使用定位new运算符，placenew2.cc修正了一些问题
+
+⑤bank.cc和 queue.h queue.cc 模拟银行队列

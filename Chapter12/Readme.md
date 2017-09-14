@@ -6,6 +6,6 @@ Chapter 12 Class & Dynamic memory allocation
 
 //编程练习：
 
-①练习一 cow_static.cc+cow.cc+cow.h
+①12.1.cc+cow.cc+cow.h 完成编程练习一
 
-②say1.cc+string1.cc+srting1.h完成12.2的内容，对StringBad类的改造
+②12.2.cc+string2.h+string2.cc 完成编程练习二 是在string1.h的基础上升级而来

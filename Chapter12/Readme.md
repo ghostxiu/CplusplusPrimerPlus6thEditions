@@ -13,3 +13,7 @@ Chapter 12 Class & Dynamic memory allocation
 ③12.3.cc+stock.h+stock.cc 完成编程练习三 使用动态分配内存，重载<<
 
 ④12.4.cc+stack0.h+stack0.cc 完成编程练习四 修改stack.h
+
+⑤12.5.cc+queue.h+queue.cc 完成编程练习五 
+
+⑥12.5.cc+queue.h+queue.cc 完成编程练习六 使用 两个队列排队

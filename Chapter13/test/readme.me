@@ -1,6 +1,6 @@
-第十三章 类继承
+第十四章 C++中的代码重用
 
-Chapter 13 	Class Inheritance
+Chapter 14 	C++ Code Reuse
 
 本目录下面的是原书章节示例内容
 

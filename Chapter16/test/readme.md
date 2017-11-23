@@ -9,3 +9,5 @@ Chapter 16 string Class & STL
 ②str2.cc string类  capcity() 和 reserve() 方法
 
 ③smrtptrs.cc  fowl.cc   string类 智能指针模版 使用三种智能指针
+
+④vect1.cc STL VECTOR vect2.cc 迭代器和容器  vect3.cc stl方法 for_each() sort() random()
